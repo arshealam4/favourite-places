@@ -40,4 +40,6 @@ If we visit some where we can store place name, picture and location using this 
 - Install expo client on your mobile from play store or app store.
 - open url (https://expo.io/@alam.786/favourite-places)
 - Open the camera, scan the code, camera will ask to open it on expo clint, click open.
+- OR
+- Enter your mobile number or email in "Request a link" area, You will get message or email, click on url.
 - Now you can use the app.
